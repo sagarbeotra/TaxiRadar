@@ -73,6 +73,6 @@ If you would like to contribute to this project, please follow these steps:
 ## Contact
 For any questions or suggestions, feel free to contact:
 
-- **Name**: Ishan Gupta
-- **Email**: ishan02@gmail.com
-- **LinkedIn**: linkedin.com/in/gupta-ishan02
+- **Name**: Sagar Beotra
+- **Email**: sagarbeotra5@gmail.com
+
