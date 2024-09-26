@@ -65,10 +65,6 @@ If you would like to contribute to this project, please follow these steps:
 - Push to the branch (git push origin feature-branch).
 - Open a pull request.
 
-## Acknowledgments
-
-- Special thanks to Dr. Wee Kek Tan for mentorship and guidance during the project.
-- Thanks to the National University of Singapore for the research internship opportunity.
 
 ## Contact
 For any questions or suggestions, feel free to contact:
